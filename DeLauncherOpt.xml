@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<LaunchOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModdedExe>true</ModdedExe>
+  <FixFile>false</FixFile>
+  <Gentool>AutoUpdate</Gentool>
+  <DebugFile>false</DebugFile>
+  <DeleteOldVersions>false</DeleteOldVersions>
+  <Sounds>true</Sounds>
+</LaunchOptions>
